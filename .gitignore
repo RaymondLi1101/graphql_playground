@@ -1,0 +1,12 @@
+/venv/
+/.idea/
+.DS_Store
+Conversus.iml
+*.pyc
+*.avro
+*.ipynb
+*.zip
+*.xlsx
+*.rdb
+db.sqlite3
+
